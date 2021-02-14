@@ -1,0 +1,23 @@
+[
+    {
+        "picture"   : "logo192.png",
+        "name"      : "John",
+        "email"     : "john@gmail.com",
+        "department": "Manager",
+        "deptDesc"  : "Department description"
+    },
+    {
+        "picture "   :"logo192.png",
+        "name    "   :"John",
+        "email   "   :"john@gmail.com",
+        "department" :"Manager1",
+        "deptDesc"   : "Department description"
+    },
+    {
+        "picture"   : "logo512.png",
+        "name"   : "Riya",
+        "email"   : "riya@gmail.com",
+        "department" : "Employee",
+        "deptDesc"   : "Department description"
+    }
+]
