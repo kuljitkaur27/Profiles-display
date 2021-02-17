@@ -1,50 +1,50 @@
 [
                 {   
-                    id: 1,
-                    picture : "Bob.png",
-                    name: "Todd Marshall",
-                    email: "todd.m@hotmail.com",
-                    department: "National investigation Leader",
-                    deptDesc: "VIEW DETAILS"
+                    "id": "1",
+                    "picture" : "Bob.png",
+                    "name": "Todd Marshall",
+                    "email": "todd.m@hotmail.com",
+                    "department": "National investigation Leader",
+                    "deptDesc": "VIEW DETAILS"
                 },
                 {
-                    id: 2,
-                    picture : "Sam.png",
-                    name: "Harold Montgomery-White",
-                    email: "harold.mw@hotmail.com",
-                    department: "Executive Director",
-                    deptDesc: "VIEW DETAILS"
+                    "id": "2",
+                    "picture" : "Sam.png",
+                    "name": "Harold Montgomery-White",
+                    "email": "harold.mw@hotmail.com",
+                    "department": "Executive Director",
+                    "deptDesc": "VIEW DETAILS"
                 },
                 {
-                    id:3,
-                    picture : "Nisha.png",
-                    name: "Norma Owens",
-                    email: "norma.owens@hotmail.com",
-                    department: "Marketing Assistant",
-                    deptDesc: "VIEW DETAILS"
+                    "id":"3",
+                    "picture" : "Nisha.png",
+                    "name": "Norma Owens",
+                    "email": "norma.owens@hotmail.com",
+                    "department": "Marketing Assistant",
+                    "deptDesc": "VIEW DETAILS"
                 },
                 {
-                    id: 4,
-                    picture : "Bob.png",
-                    name: "Oscar Young",
-                    email: "oscar.young@hotmail.com",
-                    department: "Creative Director",
-                    deptDesc: "VIEW DETAILS"
+                    "id": "4",
+                    "picture" : "Bob.png",
+                    "name": "Oscar Young",
+                    "email": "oscar.young@hotmail.com",
+                    "department": "Creative Director",
+                    "deptDesc": "VIEW DETAILS"
                 },
                 {
-                    id: 5,
-                    picture : "Riya.png",
-                    name: "Alyssa Davidson",
-                    email: "alyssa.davidson@hotmail.com",
-                    department: "in-House Plumber",
-                    deptDesc: "VIEW DETAILS"
+                    "id": "5",
+                    "picture" : "Riya.png",
+                    "name": "Alyssa Davidson",
+                    "email": "alyssa.davidson@hotmail.com",
+                    "department": "in-House Plumber",
+                    "deptDesc": "VIEW DETAILS"
                 },
                 {   
-                    id: 6,
-                    picture : "Melissa.png",
-                    name: "Sophia Simpson",
-                    email: "sophia.simpson@hotmail.com",
-                    department: "Senior Executive Assistant to Alyssa Davidson",
-                    deptDesc: "VIEW DETAILS"
+                    "id": "6",
+                    "picture" : "Melissa.png",
+                    "name": "Sophia Simpson",
+                    "email": "sophia.simpson@hotmail.com",
+                    "department": "Senior Executive Assistant to Alyssa Davidson",
+                    "deptDesc": "VIEW DETAILS"
                 }
             ]
