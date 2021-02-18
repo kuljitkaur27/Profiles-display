@@ -14,6 +14,24 @@ class Profiles {
     public function generate() {
         return $this->getProfilesData();
     } 
+    
+    public function getProfiles($department){
+
+    $profiles = getProfileData();    
+    if($department){
+        $tempProfile = [];
+
+        foreach($profiles as $val){
+            if($val->department == $department){
+                array_push($tempProfile, $val);
+            }
+        };
+        return json_encode($tempProfile);
+    } else {
+        return json_encode($profiles);
+    }
+}
+    
 }
 
 ?>
